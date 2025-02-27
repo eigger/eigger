@@ -1,7 +1,4 @@
-
-<img align="left" src="https://komarev.com/ghpvc/?username=eigger" alt="eigger" /><br>
-
-
+<img align="right" src="https://komarev.com/ghpvc/?username=eigger" alt="eigger" />
 ## Hi there 👋
 
 <!--
