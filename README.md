@@ -1,18 +1,20 @@
 <img align="left" src="https://komarev.com/ghpvc/?username=eigger" alt="eigger" />
 
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**eigger/eigger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy automation and device integration as a hobby.
 
-Here are some ideas to get you started:
+Using Home Assistant and ESPHome,
+I connect various devices and build fun, sometimes unnecessary automations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like working with both hardware and software,
+and I enjoy creating things that probably don’t need to exist.
+
+I’m also casually exploring robotics.
+
+---
+
+### 🎯 Goal
+
+Connect everything.
+Automate everything.
