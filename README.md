@@ -30,7 +30,50 @@ Automate everything.**
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eigger&layout=compact&hide_border=true" height="120">
-  <img src="https://github-readme-stats.vercel.app/api?username=eigger&show_icons=true&hide_border=true" height="120"/>
-  <img src="https://streak-stats.demolab.com/?user=eigger&hide_border=true" height="120"/>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eigger&layout=compact&hide_border=true&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eigger&layout=compact&hide_border=true&theme=default"
+    media="(prefers-color-scheme: light)"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eigger&layout=compact&hide_border=true&theme=default"
+    height="130"
+  />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=eigger&show_icons=true&hide_border=true&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=eigger&show_icons=true&hide_border=true&theme=default"
+    media="(prefers-color-scheme: light)"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=eigger&show_icons=true&hide_border=true&theme=default"
+    height="130"
+  />
+</picture>
+
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com/?user=eigger&hide_border=true&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com/?user=eigger&hide_border=true&theme=default"
+    media="(prefers-color-scheme: light)"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=eigger&hide_border=true&theme=default"
+    height="130"
+  />
+</picture>
+
 </p>
