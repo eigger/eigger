@@ -30,7 +30,7 @@ Automate everything.**
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eigger&layout=compact&hide_border=true" height="145">
-  <img src="https://github-readme-stats.vercel.app/api?username=eigger&show_icons=true&hide_border=true" height="145"/>
-  <img src="https://streak-stats.demolab.com/?user=eigger&hide_border=true" height="145"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eigger&layout=compact&hide_border=true" height="120">
+  <img src="https://github-readme-stats.vercel.app/api?username=eigger&show_icons=true&hide_border=true" height="120"/>
+  <img src="https://streak-stats.demolab.com/?user=eigger&hide_border=true" height="120"/>
 </p>
